@@ -1,3 +1,3 @@
 # SeriesProcess
 
-![Screenshot2](Screenshot2.png)
+![Screenshot_2.png](Screenshot2.png)
