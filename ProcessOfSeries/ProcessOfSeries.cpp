@@ -7,7 +7,7 @@ using namespace std;
 
 void ProgramGuide() {
 
-	cout << "\nWELCOME TO PROCESS OF SERIES PROGRAM\n" << endl;
+	cout << "\nWELCOME TO PROCESS OF SERIES\n" << endl;
 	cout << "It takes the numbers x, y and the operator from the user and prints the output of the following series." << endl;
 	cout << "--------------------------------" << endl;
 
